@@ -1,9 +1,9 @@
 #!/bin/bash
 #Script Variables
-HOST='DB_HOST';
-USER='DB_USER';
-PASS='DB_PASS';
-DBNAME='DB_NAME';
+HOST='174.138.184.18';
+USER='fplusvip_foysol1';
+PASS='foysolahmed14';
+DBNAME='fplusvip_foysol1';
 PORT_TCP='1194';
 PORT_UDP='53';
 
